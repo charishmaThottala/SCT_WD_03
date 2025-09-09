@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background:#f56af5;
+  text-align: center;
+  padding: 50px;
+}
+
+p{
+    padding-top: 10%;
+    font-size: 30px;
+}
+
+form>input{
+    height:30px;
+    width:300px;
+}
+
+form{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    gap:20px
+}
+button{
+    width:80px;
+    height:30px;
+    background-color:teal; 
+}

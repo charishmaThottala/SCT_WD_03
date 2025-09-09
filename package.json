@@ -1,0 +1,22 @@
+{
+  "name": "quiz_application",
+  "version": "1.0.0",
+  "description": "quiz application for task purpose",
+  "license": "ISC",
+  "author": "charishma",
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node":"22.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+     "start":"node index.js",
+     "build":"vercel build"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}

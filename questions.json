@@ -1,0 +1,134 @@
+[
+    {
+        "question":"What's the captial of united states ?",
+        "options":["Canada","Cuba","Washington","New york"],
+        "answer":"Washington"
+
+    },
+
+    {
+        "question":"What's the National tree of india ?",
+        "options":["Banyan tree","Peepal tree","Pungam tree","Neem tree"],
+        "answer":"Banyan tree"
+    },
+
+    {
+        "question":"what's the scientific name of bilva patra?",
+        "options":["Datura stramonium","Ficus religiosa","Aegle marmelos","Azadirachta indica"],
+        "answer":"Aegle marmelos"
+    },
+
+    {
+        "question":"who is the father of matha parvathi ?",
+        "options":["Himavantha","Vishu murthi","Prajapati daksha","Indra deva"],
+        "answer":"Himavantha"
+    },
+
+    {
+        "question":"who is the first female doctor in india ?",
+        "options":[" Dr. Rukhmabai Raut"," Dr. Kadambini Ganguly","Anandi Gopal Joshi","Dr. Muthulakshmi Reddy"],
+        "answer":"Anandi Gopal Joshi"
+    },
+
+    {   
+        "question":"Which country is known as the Land of the Rising Sun ?",
+        "options":["Japan","Russia","India","Pakisthan"],
+        "answer":"Japan"
+    },
+
+    {
+        "question":"Which African country is known as the Pearl of Africa ?",
+        "options":["Kenya","Uganda","South Africa","Egypt"],
+        "answer":"Uganda"
+    },
+
+    {
+        "question":"Who was the first person to step on the Moon ?",
+        "options":["Alan Shepard","Alan Bean","Buzz Aldrin","Neil Armstrong"],
+        "answer":"Neil Armstrong"
+    },
+    
+    {
+        "question":"Which is the world’s largest island ?",
+        "options":["New Guinea","Borneo","Greenland","Sumatra"],
+        "answer":"Greenland"
+    },
+
+    {
+        "question":"who is the mother of bhishmapitha maha ?",
+        "options":["Ganga","Narmada","kaveri","Sarsavathi"],
+        "answer":"Ganga"
+    },
+
+    {
+        "question":"Who was the first woman to win a Nobel Prize ?",
+        "options":["Marie Curie","Mother Teresa","Malala Yousafzai","Toni Morrison"],
+        "answer":"Marie Curie"
+    },
+
+    {
+        "question":"In which year did World War II end ?",
+        "options":["1947","1920","1945","1930"],
+        "answer":"1945"
+    },
+
+    {
+        "question":"Who was the author of the Mahabharata ?",
+        "options":["Vedavyasa","Valmiki","Kalidas","Chanakya"],
+        "answer":"Vedavyasa"
+    },
+
+    {
+        "question":"Which Pandava was known for his skill in archery ?",
+        "options":["Sahadeva","Bheema","Bhishma","Arjuna"],
+        "answer":"Arjuna"
+    },
+
+    {
+        "question":"who is the second wife of panduraju in Mahabharatham ?",
+        "options":["Kunti","Madri","Subhra","Uthara"],
+        "answer":"Madri"
+    },
+
+    {
+        "question":"Who discovered sea route to India in 1498 ?",
+        "options":["Vasco da Gama","Ferdinand Magellan","Bartolomeu Dias","John Cabot"],
+        "answer":"Vasco da Gama"
+    },
+
+    {
+        "question":"Who was the first President of independent India ?",
+        "options":["Dr. Savepalli radhakrishnan","Dr. Rajendra Prasad","Dr. Abdul kalam","Pandit Jawaharlal Nehru"],
+        "answer":"Dr. Rajendra Prasad"
+    },
+
+    {
+        "question":"Which country is considered as the longest written constitution of any sovereign country in the world ? ",
+        "options":["USA","Russia","Nepal","India"],
+        "answer":"India"
+    },
+
+    {
+        "question":"Who is the chairman of drafting commitee of indian constitution ?",
+        "options":["Dr. B.R.Ambedhkar","Dr. Sarvepalli radhakrishnan","Dr. Subhash chandra bose","Dr. Rajendra Prasad"],
+        "answer":"Dr. B.R.Ambedhkar"
+    },
+
+    {
+        "question":"The Brihadeeswarar Temple (Big Temple) was built by which Chola king ?",
+        "options":["Vijayalaya Chola","Raja Raja Chola I","Rajendra Chola I","Kulothunga Chola I"],
+        "answer":"Raja Raja Chola I"
+    },
+
+    {
+        "question":"The Akshardham Temple in Delhi is dedicated to which deity ?",
+        "options":["Lord Vishnu","Lord Swaminarayan","Lord Shiva","Lord Krishna"],
+        "answer":"Lord Swaminarayan"
+    },
+
+    {
+        "question":"In which state is the Kamakhya Temple located ?",
+        "options":["Assam","West Bengal","Odisha","Bihar"],
+        "answer":"Assam"
+    }
+]

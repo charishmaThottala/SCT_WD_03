@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Review Answers</title>
+  <style>
+     body{
+      background-color: lavender;
+      text-align: left;
+      padding-left: 20px;
+     }
+
+     h1,p{
+       text-align: center;
+     }
+
+     p{
+      padding-top: 10px;
+      padding-bottom: 15px;
+     }
+     div{
+      padding:7px;
+      
+     }
+
+  </style>
+</head>
+<body>
+  
+  <h1>Review of your quiz</h1>
+  <p>username : <%= username %></p>
+  
+  
+    <% answers.forEach((a, i) => { %>
+      <div>
+      
+        <strong>Q<%= i+1 %> :  <%= a.question %></strong><br>
+        <span> Your Answer : <%= a.userans %></span><br>
+        <span>Correct Answer : <%= a.correctans %></span>
+      </div>
+    <% }) %>
+  
+</body>
+</html>
