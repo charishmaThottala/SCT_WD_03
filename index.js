@@ -34,7 +34,7 @@ app.post("/start",(req,res)=>{
      let username = req.body.username.trim();
   if (!username) return res.redirect("/");
 
-  username = encodeURIComponent(username);  
+//  username = encodeURIComponent(username);  
     const selectedQuestions=shuffle([...questions]).slice(0,10);
 
     gameData[username]={
@@ -43,7 +43,7 @@ app.post("/start",(req,res)=>{
           score:0,
           answers:[]
 };
-   res.redirect(`/qload/${username}`);
+   res.redirect(`/qload/${encodeURIComponent(username)}`);
 });
 
 //loads the question
