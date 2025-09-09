@@ -123,4 +123,16 @@ app.get("/review/:username",(req,res)=>{
     });
 });
 
-export default app;
+if (process.env.NODE_ENV !== "production") {
+  const PORT = process.env.PORT || 3000;
+  app.listen(PORT, () => {
+    console.log(`Server running locally on http://localhost:${PORT}`);
+  });
+}
+
+
+const handler = (req, res) => {
+  app(req, res);
+};
+
+export default handler;
