@@ -17,7 +17,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.set("view engine","ejs");
 app.set("views",path.join(__dirname,"views"));
 
-let questions=JSON.parse(fs.readFileSync(path.join(__dirname,"questions.JSON"),"utf-8"));
+let questions=JSON.parse(fs.readFileSync(path.join(__dirname,"questions.json"),"utf-8"));
 
 function shuffle(array){
     return array.sort(()=>Math.random()-0.5);
